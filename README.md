@@ -1,5 +1,5 @@
 git # gazebo_project
--A 4 wheeled vehicle in a environment with a two walled hous
+-A 4 wheeled vehicle in a environment with a two walled house
 
 How to use:
 1. Clone the repositary
